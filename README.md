@@ -19,6 +19,10 @@ https://kopu.chat/2017/07/28/機器是怎麼從資料中「學」到東西的呢
 https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-tw
 
 
+# 51 to 53 midterm exam
+
+# 54 非監督式
+
 
 
 steps:
